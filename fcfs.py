@@ -18,5 +18,3 @@ def main():
     gantt_diagram(list, procs)
 
 main()
-print("hellllo")
-print("HHEHEHEHe")

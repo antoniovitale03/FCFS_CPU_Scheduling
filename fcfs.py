@@ -17,4 +17,5 @@ def main():
     [list, procs] = set_cpu_bursts()
     gantt_diagram(list, procs)
 
-main()
+if __name__ == "__main__":
+    main()
